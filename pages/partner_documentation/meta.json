@@ -1,0 +1,11 @@
+{
+    "user": "User",
+    "business": "Business",
+    "domain": "Domain/API",
+    "property": "Property",
+    "offer":"Offer/Buy now",
+    "house_model": "House Model",
+    "reservation": "Reservation",
+    "property_alert": "Property Alert"
+
+}
